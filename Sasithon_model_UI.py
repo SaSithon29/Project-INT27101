@@ -2,7 +2,6 @@
 import streamlit as st
 import pandas as pd
 import pickle
-import matplotlib.pyplot as plt
 
 # Load model
 with open('Sasithon_model.pkl', 'rb') as file:
